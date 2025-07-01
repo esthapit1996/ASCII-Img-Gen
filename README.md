@@ -50,6 +50,7 @@ go build -o ascii-gen main.go
 # Run
 ./ascii-gen path/to/image.jpg
 ```
+You can also copy the Binary into your `PATH`  :)
 
 ## 🎁 Output
 
