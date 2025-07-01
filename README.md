@@ -8,7 +8,7 @@ Input:
 
 Output:
 
-<img src="./ascii-evan-1.jpeg" alt="Example Output" width="200"/>
+<img src="output/ascii-evan-1.jpeg" alt="Example Output" width="200"/>
 
 ---
 
